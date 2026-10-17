@@ -4,8 +4,8 @@
 
 ## 在线玩
 
-- GitHub Pages：启用后访问 `https://N0-1-C.github.io/schulte-grid/`
-- Gitee Pages：启用后访问 `https://cqhup.gitee.io/schulte-grid/`
+- **GitHub Pages**：<https://n0-1-c.github.io/schulte-grid/>
+- **Gitee 仓库**：<https://gitee.com/cqhup/schulte-grid>（Pages 需在仓库「服务 → Gitee Pages」手动开启，要求实名）
 
 ## 本地使用
 
